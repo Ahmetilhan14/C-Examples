@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\bin\Debug\net8.0\XOXoyunu.exe
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\bin\Debug\net8.0\XOXoyunu.deps.json
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\bin\Debug\net8.0\XOXoyunu.runtimeconfig.json
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\bin\Debug\net8.0\XOXoyunu.dll
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\bin\Debug\net8.0\XOXoyunu.pdb
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\obj\Debug\net8.0\XOXoyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\obj\Debug\net8.0\XOXoyunu.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\obj\Debug\net8.0\XOXoyunu.AssemblyInfo.cs
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\obj\Debug\net8.0\XOXoyunu.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\obj\Debug\net8.0\XOXoyunu.dll
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\obj\Debug\net8.0\refint\XOXoyunu.dll
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\obj\Debug\net8.0\XOXoyunu.pdb
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\obj\Debug\net8.0\XOXoyunu.genruntimeconfig.cache
+C:\Users\HP\source\repos\XOXoyunu\XOXoyunu\obj\Debug\net8.0\ref\XOXoyunu.dll
